@@ -1,0 +1,29 @@
+This game is about throwing the ultimate LAN party!!!!!
+
+Once lanched press enter to start
+
+You click on the door to let gamers into your party.
+
+If three angry (red) gamers enter your party you dont get any rewards for the day.
+
+If gamers are in your party at the end of the day they reward you with COIN and REP
+
+COIN is used to buy new desks to host for more people
+
+REP is used to buy more gamers
+
+Your goal is to get 4 star gamers into your party in one day.
+
+HERE IS THE STAT SHEET
+
+"Rich Gamer"(green), rep=2, coin=1, rage=0
+
+"Angry Gamer"(red), rep=2, coin=0, rage=1
+
+"Normal Gamer"(black, rep=1, coin=0, rage=0
+
+"Star Gamer"(yellow), rep=5, coin=2, rage=0, star=1
+
+"Calm Gamer"(white), rep=1, coin=0, rage=-1
+
+
